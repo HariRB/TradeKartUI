@@ -1344,6 +1344,7 @@ padding-bottom: 50px;}
 .borlef{border-left: 1px solid #cd6828;}
 .colobk{color: #2f2f2f !important;}
 .colowh{color: #fff!important;}
+.cologe{color: #39b54a!important;}
 .cology{color: #333!important;}
 .conbg{background-color: #febe10;
 opacity: 0.8;
@@ -1531,6 +1532,20 @@ border-radius: 10px;
 padding: 12px;}
   .powhe{ padding-left: 50px; padding-right: 50px; padding-bottom: 50px;margin-top: -450px}
   .mar25{margin-left: 25%;}
+
+.prosub{top: 102%;
+right: -57px;
+left: initial;
+border: none;
+box-shadow: var(--card-shadow);}
+
+.prohedd{font-size: 20px;
+font-weight: 300;
+border-bottom: solid 1px #f2f2f2;
+margin-bottom: 2px;
+text-align: center;
+padding: 5px;}
+
  @media (max-width: 766px) {
 
 .mar25{margin-left: 0%;}
@@ -1744,7 +1759,18 @@ padding-left: 10px!important;}
 .subnam{font-size: 15px;
 color: #686868;}
 
-.pad15{padding-top: 15px;}
+.marj{margin: 5px auto 12px auto!important;}
+
+.tam{font-size: 15px;
+padding-top: 10px;}
+
+.marbm{margin-bottom: 8px !important;}
+
+.gend{padding-bottom: 1px;color: #ce660d;}
+.genme{font-weight: 500;
+font-size: 14px;}
+
+.pad15{padding-top: 15px!important;}
 .padle40{padding-left: 40px;}
 .padre40{padding-right: 40px;}
 .actnu{text-align: justify;font-size: 16px;
@@ -2293,3 +2319,48 @@ background-color: #f0ad4e;
 }
 .mar-top
 {margin: 35px auto 12px auto;}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+.btn-circle.btn-lg {
+  width: 50px;
+  height: 50px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 25px;
+}
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
+
+.brod{border-bottom: solid 1px #cd6828!important;}
+.editpro{border: solid 1px #cd6828;padding: 8px 38px;margin-right: 10px;}
+.editpro2{border: solid 1px #cd6828;padding: 8px 15px;}
+
+.barr{border-right: 1px solid #ddd;}
+
+.cheps{margin-top: 18px;border-radius: 50%;}
+.btpass{margin-top: -23px;
+border: solid;}
+.btss{margin-top: 25px;border-radius: 50%;width: 25%;}
+
+.martp{margin-top: 5px!important;}
+.imgple{margin-bottom: 25px;
+font-size: 24px;
+color: #404040;margin-top: 15%;}
+
+.modwh{max-width: 470px!important;}
+
